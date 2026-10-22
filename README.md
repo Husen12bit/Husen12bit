@@ -1,153 +1,77 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:00e5ff,100:7c3aed&height=210&section=header&text=MUHAMMAD%20ABDULLAH%20HUSAINI&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Low-Level%20Explorer%20%7C%20Linux%20Sandbox%20%7C%20Runtime%20Behavior%20Analysis&descAlignY=58" />
+<!-- ==================== FUTURISTIC 3D WAVE & GLASS HEADER ==================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050814,35:0A192F,70:005C97,100:00F0FF&height=230&section=header&text=MUHAMMAD%20ABDULLAH%20HUSAINI&fontSize=36&fontColor=FFFFFF&fontAlignY=38&desc=%5B%20root%40husen12bit%3A~%23%20%5D%20Linux%20Internals%20%E2%80%A2%20Low-Level%20Systems%20%E2%80%A2%20DevSecOps&descAlignY=60&descSize=16&animation=fadeIn" alt="Header Banner" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=950&lines=Halo%2C+saya+Husen+%F0%9F%91%8B;Linux+%2F+Bash+%2F+ptrace+%2F+Namespace;Membangun+Runtime+Behavior+Analyzer;Membuat+low-level+observability+lebih+manusiawi" alt="Typing SVG" />
+<!-- ==================== 4D TERMINAL TYPING ANIMATION ==================== -->
+<a href="https://github.com/Husen12bit">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2600&pause=900&color=00F0FF&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=85&lines=%3E_+%5BSYSTEM+BOOT%5D+Initializing+Kernel-Level+Telemetry+%26+Sandbox+Engine...;%3E_+Focus%3A+Linux+Namespaces+%7C+Syscall+Tracing+(ptrace)+%7C+C+%26+Bash+Automation;%3E_+Building%3A+Automated+Dynamic+Analysis+Sandbox+for+AI-Generated+Code" alt="Typing SVG" />
 </a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Husen12bit&label=Profile%20Views&color=00e5ff&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/Husen12bit?label=Followers&style=for-the-badge&color=7c3aed)
-![Focus](https://img.shields.io/badge/Focus-Linux%20Sandbox%20%26%20ptrace-00e5ff?style=for-the-badge&logo=linux&logoColor=white)
-
-</div>
-
----
-
-## `> whoami`
-
-```bash
-$ whoami
-Muhammad Abdullah Husaini — biasa dipanggil Husen
-
-$ cat /etc/husen/profile
-Mahasiswa D3 Teknik Informatika PENS
-Magetan → Surabaya
-
-$ cat /etc/husen/focus
-Linux Administration & Bash Scripting
-Cyber Security Fundamentals
-Runtime Observability
-Linux Sandbox • ptrace • auditd • /proc
-Internet of Things
-```
-
-Saya tertarik pada hal-hal **low-level yang biasanya tidak terlihat**: bagaimana sebuah program berjalan, file apa yang dibuka, proses apa yang dibuat, program apa yang dieksekusi, dan koneksi jaringan apa yang terjadi.  
-
----
-
-## 🧠 Low-Level Playground
-
-```text
-[ Linux Internals ]  namespace • ptrace • /proc • syscall • auditd
-[ Security          ]  sandboxing • runtime behavior • rule-based analysis
-[ Automation        ]  Bash scripting • Linux administration
-[ Network           ]  network monitoring • IP geolocation API
-[ IoT               ]  Arduino • sensor • computer vision dasar
-```
-
-Saya suka mengeksplorasi bagaimana sistem operasi bekerja
-
----
-
-## 🛠️ Tech Arsenal
-
-### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Web & Mobile
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Tools & Interests
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT-00E5FF?style=for-the-badge&logo=internetcomputer&logoColor=black)
-![YOLO](https://img.shields.io/badge/Basic%20Object%20Detection-YOLO-7C3AED?style=for-the-badge)
-
----
-
-## 🔭 Featured Projects
-
-| Project | Highlight |
-|---|---|
-| 🚧 **Runtime Behavior Analyzer** | Linux Sandbox + `ptrace` + event correlation + rule engine + web report untuk pengguna non-IT. *In progress.* |
-| 🤖 [Firefighting Robot with Articulated Arm](https://github.com/Husen12bit/Firefighting-Robot-with-Articulatic-Arm) | Robot pemadam kebakaran dengan lengan artikulasi. |
-| 💬 [LanMessenger](https://github.com/FitoRifqi/LanMessenger) | Aplikasi messenger berbasis LAN. |
-| 🧰 [SkillBantuin Landing Page](https://github.com/Husen12bit/LandingPageProject) | Marketplace jasa yang mempertemukan freelancer dengan klien. |
-| 📱 [SkillBantuin Mobile](https://github.com/Husen12bit/skillbantuin_mobile) | Versi mobile dari SkillBantuin. |
-| 🌐 **Network Monitoring + IP Geolocation** | Monitoring jaringan berbasis Bash scripting dengan pelacakan lokasi IP menggunakan geolocation API. |
-
----
-
-## 🧪 Skenario yang Saya Minati
-
-Saya tertarik menguji aplikasi dengan skenario yang merepresentasikan perilaku berbeda:
-
-- ✅ **Aktivitas normal** — baca file, proses data, tulis output.
-- 🌐 **Aktivitas jaringan** — koneksi jaringan yang terduga/tidak terduga.
-- 🐚 **Eksekusi program lain** — misalnya `execve("/bin/sh")`.
-- 🔐 **Akses file sensitif** — akses file di luar workspace.
-- 🧬 **Pembuatan proses** — `clone`/`fork` dan child process.
-
-Fokusnya bukan menghakimi aplikasi sebagai malware, tetapi memberikan **indikator berbasis event runtime dan aturan** yang bisa dipahami pengguna.
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Husen12bit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=7C3AED&text_color=C9D1D9" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Husen12bit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9" />
-
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Husen12bit&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=7C3AED&currStreakLabel=00E5FF" />
+<!-- ==================== GLASSMORPHIC STATUS BADGES ==================== -->
+<p align="center">
+  <a href="https://github.com/Husen12bit">
+    <img src="https://img.shields.io/badge/KERNEL_SPACE-LINUX_INTERNALS-0A192F?style=for-the-badge&logo=linux&logoColor=00F0FF&labelColor=050814" alt="Linux Internals" />
+  </a>
+  <a href="https://github.com/Husen12bit">
+    <img src="https://img.shields.io/badge/LOW--LEVEL-C_%26_POSIX_SYSCALLS-0A192F?style=for-the-badge&logo=c&logoColor=00FF9D&labelColor=050814" alt="C & Syscalls" />
+  </a>
+  <a href="https://github.com/Husen12bit">
+    <img src="https://img.shields.io/badge/SECURITY-DYNAMIC_SANDBOXING-0A192F?style=for-the-badge&logo=securityscorecard&logoColor=BD00FF&labelColor=050814" alt="Dynamic Sandboxing" />
+  </a>
+  <a href="https://www.pens.ac.id/">
+    <img src="https://img.shields.io/badge/ACADEMIC-IT_PENS_SURABAYA-0A192F?style=for-the-badge&logo=google-scholar&logoColor=38BDF8&labelColor=050814" alt="PENS" />
+  </a>
+</p>
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Husen12bit&bg_color=0D1117&color=00E5FF&line=7C3AED&point=FFFFFF&hide_border=true" />
+<p align="center">
+  <a href="mailto:husena@it.student.pens.ac.id">
+    <img src="https://img.shields.io/badge/Academic_Mail-husena%40it.student.pens.ac.id-0D1117?style=flat-square&logo=gmail&logoColor=00F0FF" />
+  </a>
+  <a href="mailto:houzen12@gmail.com">
+    <img src="https://img.shields.io/badge/Direct_Mail-houzen12%40gmail.com-0D1117?style=flat-square&logo=protonmail&logoColor=00FF9D" />
+  </a>
+  <a href="https://github.com/Husen12bit">
+    <img src="https://komarev.com/ghpvc/?username=Husen12bit&label=TELEMETRY+HITS&color=00F0FF&style=flat-square" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-## 📫 Connect
+## ⚡ `cat /proc/husen12bit/manifesto`
 
-<div align="center">
+```c
+/*
+ * @file    husen_profile.c
+ * @author  Muhammad Abdullah Husaini (Husen) — Politeknik Elektronika Negeri Surabaya (PENS)
+ * @focus   Linux System Architecture, Low-Level Programming, Syscall Telemetry & DevSecOps
+ */
 
-[![Email PENS](https://img.shields.io/badge/Email%20PENS-husena%40it.student.pens.ac.id-00E5FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:husena@it.student.pens.ac.id)
-[![Email Gmail](https://img.shields.io/badge/Email-houzen12%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:houzen12@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Husen12bit-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Husen12bit)
+#include <sys/ptrace.h>
+#include <sched.h>
 
-</div>
+struct EngineerProfile {
+    const char *codename;
+    const char *education;
+    const char *core_domains[4];
+    const char *flagship_research;
+};
 
----
-
-<div align="center">
-
-```text
-"Make the invisible runtime visible —
-safely, reproducibly, and understandably."
-```
-
-⭐ Tertarik dengan Linux internals, sandboxing, ptrace, dan runtime observability? Mari terhubung.
-
-</div>
+int main(void) {
+    struct EngineerProfile husen = {
+        .codename          = "Husen12bit",
+        .education         = "D3 Informatics Engineering @ PENS",
+        .core_domains      = {
+            "Linux Kernel & OS-Level Virtualization (Namespaces)",
+            "Low-Level Systems & Automation (C, Bash, POSIX API)",
+            "Dynamic Malware & Behavioral Telemetry (ptrace, auditd, /proc)",
+            "Embedded IoT & Computer Vision Integration"
+        },
+        .flagship_research = "Automated Dynamic Analysis Sandbox for AI-Generated Code"
+    };
+    return 0; // Executing safely inside isolated namespace
+}
