@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ==================== FUTURISTIC CYBER HUD HEADER ==================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:020617,35:082f49,75:0369a1,100:00f0ff&height=220&section=header&text=MUHAMMAD%20ABDULLAH%20HUSAINI&fontSize=32&fontColor=ffffff&fontAlignY=38&desc=%5B%20SYS_INIT%20%5D%20Linux%20Internals%20%E2%80%A2%20Low-Level%20Systems%20%E2%80%A2%20Dynamic%20Sandboxing&descAlignY=62&descSize=14&stroke=00f0ff&strokeWidth=1" alt="Header Banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:082f49,70:0369a1,100:00f0ff&height=220&section=header&text=MUHAMMAD%20ABDULLAH%20HUSAINI&fontSize=32&fontColor=ffffff&fontAlignY=36&desc=%5B%20SYS_INIT%20%5D%20Linux%20Internals%20%E2%80%A2%20Syscall%20Probes%20%E2%80%A2%20Sandboxing&descAlignY=58&descSize=14" alt="Fluid Wave Banner" />
 
 <!-- ==================== ANIMATED TERMINAL ==================== -->
 <a href="https://github.com/Husen12bit">
