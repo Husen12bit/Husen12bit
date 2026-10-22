@@ -65,44 +65,6 @@ int main(void) {
 
 ---
 
-### 🛡️ Flagship Architecture: Automated Dynamic Analysis Sandbox
-
-> **Fokus Riset & Implementasi Proyek Akhir (PA):**  
-> Sistem *sandbox* analisis dinamis otomatis berbasis Linux yang dirancang khusus untuk mengeksekusi, mengisolasi, dan membedah perilaku *untrusted binary* maupun kode hasil *AI Code Generation* secara *real-time*. Telemetri *low-level* kernel diekstraksi dan disajikan menjadi laporan keamanan dua tingkat (*Two-Tier Security Report*).
-
-```mermaid
-flowchart TD
-    PAYLOAD["⚡ AI-Generated Code / Untrusted Binary Payload"]
-    
-    subgraph S1["🧊 1. OS-LEVEL ISOLATION ENGINE"]
-        ISO["Linux Namespaces (PID, Mount, Net, User)<br/>• cgroups Resource Enforcement<br/>• Ephemeral OverlayFS Sandbox"]
-    end
-
-    subgraph S2["🧬 2. DEEP KERNEL TELEMETRY PROBES"]
-        PROBE["ptrace Syscall Interceptor (open, execve, socket)<br/>• Linux auditd Security Subsystem<br/>• /proc Process Scraper & ss Network Probe"]
-    end
-
-    subgraph S3["📊 3. DUAL-PERSPECTIVE INTELLIGENCE"]
-        REP["Two-Tier Reporting Pipeline<br/>• Tier-1: Executive Risk Summary (Non-IT User)<br/>• Tier-2: Deep Forensic Syscall Trace (SecOps)"]
-    end
-
-    PAYLOAD --> S1
-    S1 -->|"Controlled Execution Tap"| S2
-    S2 -->|"Telemetry Ingestion Pipeline"| S3
-```
-
-#### 🧩 Matriks Komponen Teknis Proyek Akhir (Berdasarkan PRD)
-
-| Sub-Sistem | Komponen & Tooling | Peran & Implementasi Arsitektur |
-| :--- | :--- | :--- |
-| **Ruang Isolasi** | `Linux Namespaces`, `cgroups` | Mengisolasi proses dalam ruang *sandbox* terpisah (*PID, Net, Mount, User*) guna mencegah eskalasi hak akses (*privilege escalation*) ke mesin host. |
-| **Syscall Probe** | `ptrace`, `POSIX C API` | Mencegat *system calls* kritis (`execve`, `mmap`, `socket`, `bind`, `connect`) sebelum instruksi dieksekusi oleh CPU. |
-| **Audit Kernel** | `Linux auditd`, `auditctl` | Memantau anomali integritas berkas, mutasi hak akses berkas, dan *binary execution* langsung melalui subsistem audit kernel. |
-| **State Inspection** | `/proc`, `ss`, `lsof`, `Bash` | Membedah *virtual filesystem* `/proc` secara *live*, memetakan konsumsi memori, serta memonitor koneksi *outbound socket* liar. |
-| **Reporting Core** | `Python`, `Web Engine` | Mengotomatisasi siklus *spin-up → trace → kill → teardown*, menghasilkan laporan *Executive Risk Score* dan *Deep Forensic Dump*. |
-
----
-
 ### ⚙️ Systems Engineering & Low-Level Toolchain
 
 | Layer Arsitektur | Komponen & Tooling |
